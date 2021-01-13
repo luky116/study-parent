@@ -11,7 +11,6 @@ import io.netty.util.concurrent.FutureListener;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import pers.vv.study.socketio.x.Configuration;
-import pers.vv.study.socketio.x.NettyConfig;
 import pers.vv.study.socketio.x.InternalServer;
 
 import java.net.InetSocketAddress;

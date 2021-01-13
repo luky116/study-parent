@@ -1,6 +1,7 @@
 package pers.vv.study.socketio.x;
 
 import lombok.Data;
+import pers.vv.study.socketio.x.netty.NettyConfig;
 
 @Data
 public class Configuration {
