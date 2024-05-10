@@ -20,10 +20,12 @@
         <dependency>
             <groupId>org.apache.pulsar</groupId>
             <artifactId>pulsar-client-original</artifactId>
+            <version>3.0.2</version>
         </dependency>
         <dependency>
             <groupId>org.apache.pulsar</groupId>
             <artifactId>pulsar-client-messagecrypto-bc</artifactId>
+            <version>3.0.2</version>
         </dependency>
         <dependency>
             <groupId>io.netty</groupId>

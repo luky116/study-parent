@@ -1,0 +1,32 @@
+Topic	使用方式	近7天最大写入流量	近7天最大写入流量	主部门	副部门	业务负责人	集群	
+zhouhui5_fast_test	调用SDK	0 B	0 B	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shyc2_priv_qssl2eng
+qss_l2eng_fastline_10	调用SDK	0 B	0 B	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shyc2_priv_qssl2eng
+qss_l2eng_fastline_11	-	0 B	0 B	-	-	-	-
+qss_l2eng_extractor_newfast_5	-	0 B	0 B	-	-	-	-
+qbus_simulator	-	270.8 kB	0 B	-	-	-	-
+zzzc_priv_qssl2eng_extractor_newfast_4	调用SDK	0 B	0 B	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shyc2_priv_qssl2eng
+zzzc_priv_qssl2eng_extractor_newfast_5	调用SDK	0 B	0 B	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shyc2_priv_qssl2eng
+zzzc_priv_qssl2eng_extractor_newfast_6	调用SDK	0 B	0 B	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shyc2_priv_qssl2eng
+zzzc_priv_qssl2eng_extractor_newfast_7	调用SDK	0 B	0 B	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shyc2_priv_qssl2eng
+qss_l2eng_extractor_newfast_1	-	0 B	0 B	-	-	-	-
+qss_l2eng_extractor_newfast_0	-	0 B	0 B	-	-	-	-
+zzzc_priv_qssl2eng_extractor_newfast_0	调用SDK	0 B	0 B	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shyc2_priv_qssl2eng
+eng_eto_qanchor_v2	调用SDK	0 B	0 B	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shyc2_priv_qssl2eng
+zzzc_priv_qssl2eng_extractor_newfast_1	调用SDK	0 B	0 B	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shyc2_priv_qssl2eng
+freshfilter_result_shyc_log	调用SDK	0 B	0 B	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shyc2_priv_qssl2eng
+zzzc_priv_qssl2eng_extractor_newfast_2	调用SDK	0 B	0 B	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shyc2_priv_qssl2eng
+zzzc_priv_qssl2eng_extractor_newfast_3	调用SDK	0 B	0 B	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shyc2_priv_qssl2eng
+qss_l2eng_extractor_newfast_realtime	-	0 B	0 B	-	-	-	-
+zzzc_priv_qssl2eng_extractor_newfast_realtime	调用SDK	0 B	0 B	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shyc2_priv_qssl2eng
+freshfilter_result_shyc	调用SDK	0 B	0 B	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shyc2_priv_qssl2eng
+qss_l2eng_fastline_1	-	0 B	0 B	-	-	-	-
+zzzc_priv_qssl2eng_extract_tracing_log	调用SDK	0 B	0 B	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shyc2_priv_qssl2eng
+fastline_l2eng_transfer	调用SDK	0 B	0 B	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shyc2_priv_qssl2eng
+qss_l2eng_fastline_8	-	0 B	0 B	-	-	-	-
+qss_l2eng_fastline_9	-	0 B	0 B	-	-	-	-
+ysl_test_topic	调用SDK	0 B	0 B	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shyc2_priv_qssl2eng
+qss_l2eng_fastline_7	-	0 B	0 B	-	-	-	-
+qss_l2eng_fastline_4	-	0 B	0 B	-	-	-	-
+qss_l2eng_fastline_5	-	0 B	0 B	-	-	-	-
+__consumer_offsets	-	975 B	-	-	-	-	-
+qss_l2eng_fastline_3	调用SDK	0 B	0 B	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shyc2_priv_qssl2eng

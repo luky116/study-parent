@@ -1,0 +1,162 @@
+Topic	使用方式	近7天最大写入流量	近7天最大写入流量	主部门	副部门	业务负责人	集群	
+onebox_index_query_inc	调用SDK	2.4 GB	4.7 GB	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_medical_voice	调用SDK	2.1 GB	1.5 GB	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_query_time	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	shbt_priv_onebox
+onebox_zz_data_investment_project_test	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_wenda_abstract	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+hw_onebox_data	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+hw_onebox_index_query_fast_in	调用SDK	-	-	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_spider	调用SDK	39 kB	76.4 kB	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_investment_project	调用SDK	0 B	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_product_b2b	调用SDK	0 B	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_medical_article	调用SDK	1.2 GB	2.6 GB	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_handle_quick_test	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+zzzc_priv_qssl2eng_vertical_offline_wenda_fresh	调用SDK	-	-	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shbt_priv_onebox
+qbus_simulator	-	131 kB	0 B	-	-	-	-
+spider_quick_smartabstract_extractor_data	调用SDK	-	-	网页爬虫	STORM抓取线	董禹龙(dongyulong@360.cn)	shbt_priv_onebox
+onebox_on2off_log	日志收集	0 B	0 B	onebox业务	intf_onebox_360_cn_V3	张媛(zhangyuan@360.cn)	shbt_priv_onebox
+onebox_zz_data_zhibo_gameanchor	调用SDK	0 B	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_house_community	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+hw_onebox_index_query_whole	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_video_wendavideo	调用SDK	23 MB	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+software_download	调用SDK	-	-	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shbt_priv_onebox
+onebox_zz_spider_test	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_delicacy_food	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_delicacy_menu	调用SDK	428 kB	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_recall_count_online	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	shbt_priv_onebox
+onebox_zz_data_game_strategy	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_onelevel_channel	调用SDK	16 MB	31.5 MB	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_image_material	调用SDK	0 B	0 B	图搜	图搜合作站图片引擎	王德新(wangdexin@360.cn)	shbt_priv_onebox
+onebox_zz_handle_quick	调用SDK	31.1 GB	65.0 GB	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_library_document	调用SDK	12.4 GB	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_index_query_fast_delete_in	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_recall_flush_slow	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+qssweb_onebox_zz_data_library_document	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_twolevel_common_channel	调用SDK	197 MB	379.5 MB	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_medical_registration	调用SDK	118 MB	117.5 MB	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_test	调用SDK	-	-	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_wenda_abstract_zizhuaqu	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_recall_export_whole	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_run_education_training	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_wenda_Answer	-	130 MB	138.3 MB	-	-	-	-
+onebox_zz_data_run_product_discount	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data	调用SDK	21.9 GB	43.6 GB	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_image_atlas	调用SDK	704 kB	117.9 MB	图搜	图搜合作站图片引擎	王德新(wangdexin@360.cn)	shbt_priv_onebox
+onebox_zz_data_law_firm	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_automobile_article	调用SDK	136 MB	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_video_online	调用SDK	800 MB	2.4 GB	视频垂搜	视频离线处理	王德新(wangdexin@360.cn)	shbt_priv_onebox
+onebox_zz_data_investment_strategy	调用SDK	0 B	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_house_wenda	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_locallife_shopraiders	调用SDK	0 B	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_apply_proposal	调用SDK	0 B	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_house_communityls	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_spider_quick	调用SDK	171 kB	337.9 kB	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_wenda_subjective	-	1 kB	1.3 kB	-	-	-	-
+onebox_zz_data_decoration_plan	调用SDK	148 MB	144.6 MB	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_image_single	调用SDK	250 MB	1.3 GB	图搜	图搜合作站图片引擎	王德新(wangdexin@360.cn)	shbt_priv_onebox
+onebox_zz_data_product_article	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_medical_wenda	调用SDK	1.3 GB	1.8 GB	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+vert_job_position_offline	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	shbt_priv_onebox
+onebox_zz_data_medical_classic	-	0 B	0 B	-	-	-	-
+onebox_zz_data_law_lawyerCommercialization	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_charity_adoption	-	33 kB	0 B	-	-	-	-
+onebox_twolevel_quick_channel	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+spider_quick_smartabstract	调用SDK	-	-	网页爬虫	STORM抓取线	董禹龙(dongyulong@360.cn)	shbt_priv_onebox
+onebox_zz_data_video_shortvideo	调用SDK	205 kB	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_law_wenda	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_wenda_zhixuan	调用SDK	14 MB	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+fast_pass	调用SDK	-	-	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shbt_priv_onebox
+zzzc_priv_qssl2eng_vertical_offline_out_job_position	调用SDK	-	-	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shbt_priv_onebox
+onebox_zz_spider_quick_test	调用SDK	0 B	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_on2off	调用SDK	0 B	0 B	onebox业务	intf_onebox_360_cn_V3	张媛(zhangyuan@360.cn)	shbt_priv_onebox
+onebox_zz_data_medical_checkup_mechanism	调用SDK	68 kB	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_recall_export_inc	调用SDK	77.1 GB	155.7 GB	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+qssweb_onebox_zz_handle	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_apply_find	调用SDK	0 B	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_beta_data	调用SDK	71 MB	139.1 MB	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+hw_onebox_index_query_whole_in	调用SDK	-	-	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_index_recall_inc_beta	调用SDK	26.4 GB	79.1 GB	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_index_recall_inc_online	调用SDK	21.1 GB	85.2 GB	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_medical_registrationhospital	调用SDK	13 MB	13.4 MB	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_product_discount	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_education_composition	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_education_course	调用SDK	493 kB	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_recall_flush_large	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+zzzc_priv_qssl2eng_vertical_offline_green_library	调用SDK	-	-	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shbt_priv_onebox
+zzzc_priv_qssl2eng_vertical_offline_input_onebox	调用SDK	-	-	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shbt_priv_onebox
+onebox_zz_engine_conf	调用SDK	0 B	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_Encyclopedias_Neologisms	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_product_details	调用SDK	0 B	0 B	引擎架构	日志Hadoop客户机	王勇(wangyong-pd@360.cn)	shbt_priv_onebox
+onebox_zz_data_law_Firm	-	2 kB	2.0 kB	-	-	-	-
+onebox_zz_spider_large	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_priv_onebox	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	shbt_priv_onebox
+onebox_index_query_delete_in	调用SDK	387 MB	1.3 GB	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_beauty_diary	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_product_discount	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_law_lawyers	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_apply_Headercontent	调用SDK	0 B	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+job_position	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	shbt_priv_onebox
+spider_constantly_line	调用SDK	-	-	网页爬虫	STORM抓取线	董禹龙(dongyulong@360.cn)	shbt_priv_onebox
+hw_onebox_beta_data	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_wenda_Selectedabstracts	调用SDK	4.6 GB	44.4 GB	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shbt_priv_onebox
+onebox_zz_data_beauty_dairy	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+software_download_test	调用SDK	-	-	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shbt_priv_onebox
+onebox_index_recall_whole_beta	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_index_query_whole	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_onebox_zz_data_apply_applet	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_product_article	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_medical_ugc	调用SDK	0 B	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+hw_onebox_index_query_inc	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+zzzc_priv_qssl2eng_vertical_offline_out_liangyi	调用SDK	-	-	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shbt_priv_onebox
+zzzc_priv_qssl2eng_extract_output_md5	调用SDK	-	-	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shbt_priv_onebox
+onebox_zz_data_apply_applet	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_medical_psychology	调用SDK	0 B	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_index_query_fast_in	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_relation_cluster_new	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_medical_medical_plan	调用SDK	55 kB	55.0 kB	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_index_query_whole_in	调用SDK	253 MB	1.0 GB	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+hw_onebox_index_query_fast_delete_in	调用SDK	-	-	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_off2on	调用SDK	0 B	0 B	onebox业务	intf_onebox_360_cn_V3	张媛(zhangyuan@360.cn)	shbt_priv_onebox
+onebox_zz_data_medical_ask_doctor	调用SDK	545 MB	1.7 GB	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_index_query_inc_in	调用SDK	1.5 GB	3.9 GB	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_software_download	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_game_news	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_decoration_strategy	调用SDK	4.5 GB	4.6 GB	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_deadpage	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+online_video_yingshizhan	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	shbt_priv_onebox
+fast_pass_test	调用SDK	-	-	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shbt_priv_onebox
+onebox_zz_data_wenda_Generalanswers	调用SDK	0 B	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_law_regulations	调用SDK	0 B	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+shbt_priv_onebox	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	shbt_priv_onebox
+onebox_zz_data_medical_video	调用SDK	42 MB	129.7 MB	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_game_video	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_handle_test	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+hw_onebox_index_query_inc_in	调用SDK	-	-	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_index_recall_whole_online	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_web_abstract	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_law_details	调用SDK	330 MB	336.1 MB	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_house_rent	调用SDK	0 B	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+video_audit_result	调用SDK	-	-	视频垂搜	视频离线处理	王德新(wangdexin@360.cn)	shbt_priv_onebox
+onebox_zz_data_wenda_Thirdabstracts	-	3.5 GB	29.8 GB	-	-	-	-
+onebox_zz_data_job_position	调用SDK	1.7 GB	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_handle	调用SDK	-	462.7 GB	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_data	调用SDK	30.2 GB	274.6 GB	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_Encyclopedias_software	-	0 B	0 B	-	-	-	-
+onebox_zz_data_medical_drug	调用SDK	12 MB	11.6 MB	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_zhibo_platform	调用SDK	0 B	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_medical_vaccine	调用SDK	0 B	0 B	搜索垂直搜索	新闻数据生产	刘国徽(liuguohui-pd@360.cn)	shbt_priv_onebox
+onebox_zz_data_entertainment_novel	调用SDK	281 MB	274.0 MB	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+hw_onebox_index_query_delete_in	调用SDK	-	-	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+onebox_zz_data_automobile_video	调用SDK	13 kB	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_game_strategy	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_medical_checkup	调用SDK	18 MB	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_beauty_project	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_finance_insure	调用SDK	0 B	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+delicacy_menu	调用SDK	-	-	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	shbt_priv_onebox
+onebox_zz_data_fast_pass	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_game_evaluation	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+qssweb_onebox_zz_handle_test	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_education_training	调用SDK	22 MB	21.9 MB	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox
+__consumer_offsets	-	135 MB	-	-	-	-	-
+onebox_zz_data_game_columns	调用SDK	0 B	0 B	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	shbt_priv_onebox
+onebox_zz_data_house_premises	调用SDK	0 B	0 B	onebox业务	onebox管理后台	张素杰(zhangsujie@360.cn)	shbt_priv_onebox

@@ -1,0 +1,583 @@
+Topic	使用方式	近7天最大写入流量	近7天最大写入流量	主部门	副部门	业务负责人	集群	
+v2_qss_access_src_test	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_open-www-so-com-statis-consumer	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_waf_sdk_wenku_so_com	调用SDK	457 MB	458.4 MB	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_one-search-so-flow-new	调用SDK	-	-	搜索智能推荐	导航常搜	李芳(lifang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_thor-gateway-admin-thor-gateway-admin	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_pc-connect-test-web	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+image_highquality_pics	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_hotsearch-hotsearch	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_qsspage-spam-cnn-tf-httprequest	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_yangtaoshe-com-yangtaoshe-web-consumer	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_index-so-com-consumer	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+zzzc1	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+oneboxlog_lua	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+v2_qss_attr_table	调用SDK	40 GB	40.2 GB	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+imgse_vangogh_output	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_st-so-com-consumer	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+image_news_flink_in	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_lvsmonitor-lvsmonitor-m	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+spider_small_video_url_fast	调用SDK	0 B	0 B	网页爬虫	STORM抓取线	董禹龙(dongyulong@360.cn)	zzzc_priv_search_platform_1
+qss_l1eng_web_snapshot1	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+imgse_page_spider	调用SDK	-	-	图片搜索	时效性	王德新(wangdexin@360.cn)	zzzc_priv_search_platform_1
+qss_instant_search	-	0 B	0 B	-	-	-	-
+jsonfield_spider_jsonfield_1524815521	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+tran_news_qssweb_log	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+jsonfield_spider_ana_1526365752	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qlog_access	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+storm_mobile_primary_idc_log	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+lwh	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+merger_gxb_info	调用SDK	395 MB	373.4 MB	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_query_attr_idc_log	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+v2_qss_default_data	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_data_converge	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_english-so-com-web	调用SDK	-	-	web前端	英文搜索	耿斌(gengbin@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_news-so-com-web-stage	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+small_video_spider_result1	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+tilo_access_log	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+image_test_in	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+storm_attr_builder_filtertags_prior	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_etcd-prometheus	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+so_click	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_english_search_bing	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_kafka-etl-qlog2influx	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_all_stored_15	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_stored_1	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_infra-kafka-manager	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_all_stored_11	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_infra_sla_nginx	调用SDK	-	-	搜索云平台	QBUS	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+image_rnews	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_all_stored_12	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+git_so_access_log	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_all_stored_13	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+user_cache	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qss_all_stored_14	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_chatgpt_130b_cpp_tritonclient	-	0 B	0 B	-	-	-	-
+i	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_mrec-sug-web	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+storm_attr_builder	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+image_news_flink_out	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+test_rhj	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_qcaptcha-so-com-gen	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+toso_recom_log_1	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qlog_k8s_kubelet_logs	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_1eng_private_attr_builder_prior	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_all_stored_10	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_shell-terminal-web	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+storm_attr_idc_log_filtertags	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_vangogh-result	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+image_ads_peitu_v2	调用SDK	0 B	0 B	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+waf.sdk.access.pc_wenda	调用SDK	-	-	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_syslogudpserver-php2qlog-sys2q	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_all_stored_2_prior	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_vangogh-tuso-content	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_vangogh-content	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_prometheuse-k8s	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+cloud_ucs_rrecom	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+lastclick	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_alfred-nginx	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_none	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_xueshu-so-com-web	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+zhaoyf_image_news_flink_out	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+jsonfield_spider_jsonfield_1524813893	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_smart-suggest-consume	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_elk-logstash-k8s	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_maintable_command_builder	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+v2_qss_main_command_new_null	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qlog_cloudsearch_imgmerger	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_qbus-etl-wpo2influx-m	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_weibo-onebox-weibo-stage	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+zzzc_priv_qssl2eng_extract_webpage_escape	调用SDK	-	-	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_infra-api	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_infra-log-logstash	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+test	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+imgse_vangogh_output_deadlinks	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_udplogserver-kafka2es	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+maintable_merger_info	调用SDK	1.509 TB	1.5 TB	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+storm_resource_idc_log	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+QLOG_QSSWEB_SO_QBUS	调用SDK	41 GB	337.4 GB	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_etcd-operator	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_waf_sdk_kuai_so_com	调用SDK	66 MB	65.9 MB	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+image_offline_process_result	-	0 B	0 B	-	-	-	-
+storm_attr_idc_log_prior	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+test_zhaoyf_in	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+iot_robotsearcher_log	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qss_all_stored_4locate	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+my_topic	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_etcd-etcd-operator	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+toso_recom_log	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+test0101	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+image_storm_download_zutu	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+jsonfield_spider_jsonfield_1524818082	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qss_l1eng_restorelink_data	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+online_video_yingshizhan	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qss_1eng_private_attr_builder	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+etcd-etcd-cluster	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_vangogh-tuso-pipeline	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_qbus-etl-wpo2influx	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_yangtaoshe-com-admin	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_AndroidStudioProjects	调用SDK	-	-	搜索云平台	QBUS	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+v2_qss_anti_cheat_scribe	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_index-so-com-memcached	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_alfred-cfssl	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_browser-sug-realtime-crontab	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_smart-suggest-quc	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+test_zhaoyf_out_1	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+test_zhaoyf_out_0	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qssweb_waf_sdk_SO_SUG	调用SDK	2 MB	3.7 MB	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_abtest-web-stage	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_dockertest-dockertest	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_elk-kibana	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_udplogserver-udplogserver	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_socom_srp_fro_ad	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_vangogh-pipeline	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+__consumer_offsets	-	30 GB	61.2 GB	-	-	-	-
+qss_l2eng_priv_test	调用SDK	-	-	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	zzzc_priv_search_platform_1
+v2_qss_file_src_other	调用SDK	75 GB	151.6 GB	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+soclick_qss_analyze_scribe	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_grafana-cloud	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_news-so-com-syslogudp	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+mobile_soclick_qss_main_command_new	调用SDK	4 GB	4.7 GB	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+imgse_zutuMeinv	调用SDK	5 MB	100.8 MB	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+small_video_spider_query	调用SDK	0 B	0 B	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_elf-owl-monitor	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_qbus-etl-ajax2influx	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_harbor-mysql	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+storm_attr_ss_builder	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qbus_simulator	-	729 kB	0 B	-	-	-	-
+k8s_docker_fastline-timelog-fastline-timelog-viewpage	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_l1end_hdp_src	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qlog-k8s-kubelet-logs	调用SDK	-	-	搜索云平台	QBUS	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qss_l1eng_resource_src	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_lvsmonitor-master	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+onebox_zhihu	调用SDK	-	-	网页爬虫	STORM抓取线	董禹龙(dongyulong@360.cn)	zzzc_priv_search_platform_1
+so_ai_common_exportshbt	调用SDK	-	-	web前端	人工智能	耿斌(gengbin@360.cn)	zzzc_priv_search_platform_1
+video_crawler_spider_output	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+hezhaoyang-test	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_syslogudpserver-php2qlog-syslogudp	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+image_vangogh_output_deadlinks	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+spider_web_struct_out	调用SDK	0 B	0 B	网页爬虫	STORM抓取线	董禹龙(dongyulong@360.cn)	zzzc_priv_search_platform_1
+vertical_qss_data_education_composition	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_baike-ssl-proxy-baike-ssl-proxy-2	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+storm_attr_builder_filtertags	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_m-so-com-web-php7	调用SDK	-	-	移动搜索	移动搜索主站	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_image-so-com-memcached	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_registry-hub-hub	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+imgse_zutuVangoghCallback	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qsslab_goods_dct_sum	调用SDK	0 B	0 B	图片搜索	识图购物	薛红霞(xuehongxia@360.cn)	zzzc_priv_search_platform_1
+spider_pageana_out	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+soclick_qss_filter_date_1	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+v2_qss_file_src_other_1	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_abtest-web	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_intelligent-analysis-intelligent-analysis	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+v2_qss_main_command_new	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qlog_cloudsearch_qssweb	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_magmadar-redis	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_vmspider	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+spider_epoch	调用SDK	0 B	0 B	网页爬虫	展现日志收集	董禹龙(dongyulong@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_vangogh-thumbnail	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_waf_sdk_mso	调用SDK	5 GB	4.9 GB	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+image_offline_process_input_9	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+image_offline_process_input_8	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+image_offline_process_input_7	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+image_offline_process_input_6	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+image_offline_process_input_5	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+iot_prattle_log	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_vangogh-filter	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+iot_robotqa_log	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qlog_cloudsearch_moviemerger	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_qcaptcha-udpserver	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_index-so-com-logstash	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_hotsearch-deploy	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+user_cache_test	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qssweb_waf_sdk_pc_baike	调用SDK	0 B	0 B	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_mrec-sug-web-stage	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_monitor-man-monitor-man	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_qcaptcha-web-bjyt	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+gif_sou_access_log	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+image_offline_process_input_4	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+image_offline_process_input_3	调用SDK	-	-	图搜	图搜离线处理	王德新(wangdexin@360.cn)	zzzc_priv_search_platform_1
+image_offline_process_input_2	调用SDK	-	-	图搜	图搜离线处理	王德新(wangdexin@360.cn)	zzzc_priv_search_platform_1
+onesearch_build_data	调用SDK	-	-	垂搜线上	垂搜_线上数据流	林伟家(linweijia@360.cn)	zzzc_priv_search_platform_1
+small_video_inc_data	调用SDK	0 B	0 B	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+image_offline_process_input_1	调用SDK	-	-	图搜	图搜离线处理	王德新(wangdexin@360.cn)	zzzc_priv_search_platform_1
+image_offline_process_input_0	调用SDK	-	-	图搜	图搜离线处理	王德新(wangdexin@360.cn)	zzzc_priv_search_platform_1
+qssweb_waf_sdk_m_wenda	调用SDK	60 MB	60.0 MB	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+onebox_on2off	调用SDK	-	-	onebox业务	intf_onebox_360_cn_V3	张媛(zhangyuan@360.cn)	zzzc_priv_search_platform_1
+viking_zzdt	调用SDK	3 GB	3.2 GB	引擎架构	数据通道	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+spider_browse_data_feed_qll	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_qsearch_zipcode	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_kvzhida_info	调用SDK	15 GB	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+liuwenhao	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+spider_special_url_feed_peixun	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_engcos-timestat-merger-timemerger	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+v2_qss_access_src	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+v2_qss_main_command_new_test	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+search_idc_log_qbus2	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+kafka-monitor-topic	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_so-user-history-api	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+v2_qss_crawler_command	调用SDK	26 GB	25.7 GB	引擎架构组	v2快速线	王勇(wangyong-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_query-tag-app-stage	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+small_video_timely_result	调用SDK	4 GB	3.5 GB	视频垂搜	视频离线处理	王德新(wangdexin@360.cn)	zzzc_priv_search_platform_1
+spider_struct_webextract	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qss_1eng_private_amp_delete_src	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qlog-k8s-qsearch-zipcode	调用SDK	-	-	搜索云平台	QBUS	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_api-www-so-com-mc	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+imgse_highquality_pics	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_attr_idc_log_prior	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_pc-image-so-com-web	调用SDK	-	-	综合搜索	图片搜索web	耿斌(gengbin@360.cn)	zzzc_priv_search_platform_1
+image_offline_process_input_11	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+image_offline_process_input_10	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_query-tag-app	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+v2_qss_hdfs_src	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qsssre_pika_syncer_test	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qss_1eng_private_smartsnippet_idc_log	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_query-analysis-app	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+image_ads_peitu	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qlog_qssweb	调用SDK	428 GB	1.2 TB	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_harbor-redis	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+imgse_zutuEng	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qlog_cloudsearch_imgresults	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_onebox_zz_data_product_article	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	zzzc_priv_search_platform_1
+qss_vertical_search_platform	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+vertical_qss_data_house_estate	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_opensearch-api-stage	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+soclick_qss_access_src	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+telegraf_infra	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+so_app_yangzaizai_audit_result_new	调用SDK	-	-	综合搜索	芝麻APP	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+merger_brief_info	调用SDK	62 GB	0 B	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qss_l1eng_deadlink_command	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_eaglemonitor-eaglemonitor	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+imgse_vangogh_result_general	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_gem-gem	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qlog_qssweb_docker_mso_hword	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+mobile_session_maintable	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_so-user-history-qbus	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+so_sweb_iris_mail_dev	调用SDK	-	-	综合搜索	__小业务资源维护__	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_image-so-com-m-se-api	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qlog_cloudsearch_tagrecom	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_harbor-registry-deploy	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+liutest	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_mexplore-damai-dump	调用SDK	-	-	搜索云平台	QBUS	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_so-com-webcache	调用SDK	-	-	web前端	搜索快照	耿斌(gengbin@360.cn)	zzzc_priv_search_platform_1
+qss_1eng_private_souclick_file_src	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+storm_attr_ss_builder_prior	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+onebox-web-k8s-log	调用SDK	22 MB	21.9 MB	onebox业务	intf_onebox_360_cn_V3	张媛(zhangyuan@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_qcaptcha-so-com-udpserver	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_yangtaoshe-com-web	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+gif_so_access_log	调用SDK	521 GB	1.8 TB	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_image-download-app-stage	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+v2_qss_hdf_src	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+imgmerger_qlogd_timesummary	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+v2_qss_analyze_scribe	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+jsonfield_spider_jsonfield_1524814213	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+storm_resource_new_idc_log	调用SDK	45 MB	229.8 MB	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb-business-log-onebox-web-k8s-log	调用SDK	-	-	搜索云平台	QBUS	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+zhangshuang-test	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qsssre_pika_syncer	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+imgse_zutuNews	调用SDK	28 MB	50.0 MB	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_attr_builder	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+DISPATCHER	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+web_snapshot	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qss_l1eng_resource_resource	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+image_storm_download1	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qss_l1eng_resource_submitter	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+waf.sdk.access.new.default	调用SDK	0 B	0 B	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_mail-iris-api-hermes	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+image_news2	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_waf_sdk_default	调用SDK	0 B	0 B	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_kube-heapster	调用SDK	-	-	搜索云平台	QBUS	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qss_1eng_private_amp_access_src	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+test-topic	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_m-so-com-web	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_leng_all_stored	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_auditeng-audit-eng	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_pc-st-so-com-web	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+zhaoyf....hahahhaha	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_tran-news-so-com-web	调用SDK	-	-	移动搜索	移动搜索转码	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_m-so-com-consume	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+soclick_qss_analyze_scribe_1	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qss_all_stored_1_prior	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+v2_qss_discard	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+imgse_zutuVangoghCallbackOld_test	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_p-ssl-so-com-web	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+mobile_soclick_qss_filter_data	调用SDK	5 GB	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+spider_crawler_jsredownload	调用SDK	0 B	0 B	网页爬虫	STORM抓取线	董禹龙(dongyulong@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_m-so-com-consume-kafka2influx	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_waf_sdk_hanyu_so_com	调用SDK	0 B	0 B	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+input_topic	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_heapster	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qsqss_l1eng_deadlink_command	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+v2_qss_attr_table-success	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_image-so-com-m-se-api-stage	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_abtest-redis	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_socom_srp_for_ad	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_l1eng_submitter_src	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+kvzhida	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+kvdb_searcher_info	调用SDK	1.619 TB	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+storm_engine_resource_builder	调用SDK	104 MB	103.3 MB	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_zhida_builder	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+v2_qss_hdfs_src_prior	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+guess_user_info	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+v2_qss_main_command_new_filter	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_qsspage-spam-cnn-tf-server	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_m-so-com-memcache	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+srauto_userlog	调用SDK	35 MB	34.6 MB	地图	手机app	刘代明(liudaiming@360.cn)	zzzc_priv_search_platform_1
+mobile_soclick_qss_access_src_click	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_engtools-xt-engtools-xt	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qlog_qlog_qssweb	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+QLOG_QSSWEB_SO_QBUS_NORESULT	调用SDK	0 B	0 B	搜索云平台	QBUS	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+LogMonitor	调用SDK	0 B	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_sessiontracer-web	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_mail-iris-consumer-iris	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_waf_sdk_en_so_com	调用SDK	0 B	0 B	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+image_storm_download_highquality	-	0 B	0 B	-	-	-	-
+qss_vertical_search_platform_origin_data	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_l1eng_web_snapshot	调用SDK	1 GB	1.3 GB	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+image_storm_highquality	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_l1eng_resource_pipe	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+mobile_soclick_qss_access_src	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_magmadar-twemproxy	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_attr_builder_prior	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_elk-logstash-m-so-com	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_waf_sdk_fanyi_so_com	调用SDK	414 kB	436.4 kB	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+ly-so-com-web-syslog-log	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+mobile_soclick_qss_click_forward	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_l1eng_web_snapshsnapshot	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qlog_qssweb_fukun_test_logstash	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+small_video_timely_result1	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+TagRecom	调用SDK	133 GB	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+image_vangogh_output	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+so_app_yangzaizai_new	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_m-so-com-quc	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_elk-es-cleanup	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qlog_Cloud	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_info-se-corp-info-se-corp	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_1eng_all_stored	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qssweb_onebox_zz_data_house_premises	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	zzzc_priv_search_platform_1
+qss_1eng_private_smartsnippet_xml_builder	-	0 B	0 B	-	-	-	-
+img_onesearch_fasteng	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_smart-suggest-openresty	调用SDK	-	-	web前端	smart-sug	耿斌(gengbin@360.cn)	zzzc_priv_search_platform_1
+datachannel_test	调用SDK	257 MB	0 B	引擎架构	数据通道	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+spider_browse_data_feed	调用SDK	0 B	0 B	网页爬虫	STORM抓取线	董禹龙(dongyulong@360.cn)	zzzc_priv_search_platform_1
+qsslab_goods_dct_torun1	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+test_zhaoyf_out	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+i_so_com_wallpaper_sync	调用SDK	-	-	web前端	大搜前端-so_fe_www_web	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qlog_qssweb_general_udp_log	调用SDK	113 GB	112.6 GB	web前端	大搜前端-so_fe_www_web	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+so_sweb_iris_mail_dev_fast	调用SDK	-	-	综合搜索	__小业务资源维护__	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+zzzc_priv_qssl2eng_extract_webpage_test	调用SDK	-	-	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	zzzc_priv_search_platform_1
+image_test_out	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_index-so-com-web	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_info-se-corp-info-se-mailconsum	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+testHL	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+attributeserver_log	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+spider_struct_page	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+imgse_zutuVangoghCallbackOld	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_waf_sdk_access_m_wenda	调用SDK	-	-	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_opensearch-api	调用SDK	-	-	综合搜索	api_www_so_com	耿斌(gengbin@360.cn)	zzzc_priv_search_platform_1
+imgmerger_qlogd	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+kafka-monitor	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_lvsmonitor-lvsagent	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_j-www-so-com-web	调用SDK	-	-	web前端	新闻搜索前端	耿斌(gengbin@360.cn)	zzzc_priv_search_platform_1
+v2_qss_v2_filter_data_other	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_mobsuggest-proxy	调用SDK	-	-	搜索智能推荐	mob_suggestion	蒋帅(jiangshuai@360.cn)	zzzc_priv_search_platform_1
+data_channel	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_browser-sug-api	调用SDK	-	-	综合搜索	api_www_so_com	耿斌(gengbin@360.cn)	zzzc_priv_search_platform_1
+v2_qss_file_src	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+soclick_qss_anti_cheat_scribe_1	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+image_offline_process_input	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_infra-sla-nginx1	调用SDK	-	-	搜索云平台	QBUS	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+so_log_mobile_srp	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+jsonfield_test	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_g-cnt-web	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_harbor-registry	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_smart-suggest-memcache	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_english-so-com-web-stage	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+telegraf_infra1	调用SDK	-	-	搜索云平台	QBUS	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_new_knowledge	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_index-so-com-web-stage	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+amp_mip	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+TagRecomm	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_debug_none	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+maintable_search_resource_builder_qbus2	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qsslab_goods_dct_uncache	调用SDK	68 MB	0 B	图片搜索	识图购物	薛红霞(xuehongxia@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_qbus-etl-searcher2influx	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_searcher_result	调用SDK	1.372 TB	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_app_push_ios	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_waf_sdk_m_wuzhui_so_com	调用SDK	0 B	0 B	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+storm_engine_resource_builder_prior	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_mexplore-online	调用SDK	-	-	地图	实时渲染	罗军(luojun@360.cn)	zzzc_priv_search_platform_1
+image_offline_process_middle_3	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+image_offline_process_middle_2	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+tilo_run_log	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_all_stored_1_test	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+SO_WAF_ACCESS_LOG	调用SDK	0 B	0 B	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+image_offline_process_middle_1	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+image_offline_process_middle_0	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+iso_wallpaper_sync	调用SDK	-	-	web前端	大搜前端-so_fe_www_web	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+maintable_web_snapshot_qbus2	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+so_log_pc_srp	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+online_video_yingshizhan1	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+image_test	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+test_zhaoyf_0	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+test_zhaoyf_1	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_magmadar-magmadar-stage	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+test_zhaoyf_2	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+test_zhaoyf_3	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+spider_special_url_feed	调用SDK	0 B	0 B	网页爬虫	STORM抓取线	董禹龙(dongyulong@360.cn)	zzzc_priv_search_platform_1
+spider-fast-line	调用SDK	0 B	0 B	网页爬虫	STORM抓取线	董禹龙(dongyulong@360.cn)	zzzc_priv_search_platform_1
+image_news2_result	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+zzzc_priv_search_platform_1	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+storm_attr_idc_log	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+imgse_storm_download_general	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_browser-sug-mc	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_waf_sdk_so	调用SDK	11 GB	11.2 GB	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+soclick_qss_default_data_1	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+small_video_spider_result_timely	调用SDK	136 MB	408.5 MB	视频垂搜	视频离线处理	王德新(wangdexin@360.cn)	zzzc_priv_search_platform_1
+so_srp	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_l1eng_web_pshot	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qss_primary_idc_log	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+kvdb_cloudproxy	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+mgse_zutuNews	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_qsslib-annotation-qsslib-annotation	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+kvdb_dispatcher_info	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+gusess_user_info	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_sessiontracer-consumer	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_waf_sdk_chacha_so_com	调用SDK	10 MB	9.6 MB	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+qss_attr_table	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qlogd_DCAgent	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+storm_attr_builder_prior	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+soclick_qss_anti_cheat_scribe	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_vm-spider-test	调用SDK	-	-	搜索云平台	QBUS	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_ampcache-ampcache	调用SDK	-	-	移动搜索	AMP_MIP中间页	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qssweb_waf_sdk_news_so_com	调用SDK	2 GB	1.6 GB	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_m-so-com-web-stage	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_l1eng_hdp_src	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+onesearch_img_fasteng	调用SDK	0 B	0 B	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qssweb_docker_nginxlog_mso	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_l1eng_submitter_src_test	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+soclick_qss_default_data	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+v2_qss_main_command_new_1	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_infra-sla-nginx	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_elk-logstash-heapster	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_qcaptcha-so-com-captcha-web	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_alfred-web	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_fastline_l2eng_transfer	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_vertical_search_platform_log	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+zhangshuang-pd-test	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+video_crawler_spider_input	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_vangogh-tuso-filter	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+soclick_qss_anti_cheat_brush_click	调用SDK	542 kB	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_ly-so-com-nginx-consumer	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_data_converge_1	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_syslog-ng	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+onesearch_img_rnews	调用SDK	0 B	0 B	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_so-user-history-qbus2otheridc	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+v2_qss_file_src_baidu	调用SDK	52 GB	102.9 GB	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_image-download-app	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_commondict-web	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_alfred-memcached	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qlog_qssweb_docker_syslog	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+imgmerger_qlogd_resultinfo	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+small_video_spider_result	调用SDK	62 GB	105.2 GB	视频垂搜	视频离线处理	王德新(wangdexin@360.cn)	zzzc_priv_search_platform_1
+mobile_soclick_qss_discard	调用SDK	571 GB	569.9 GB	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_summary_log	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+mobile_soclick_qss_default_data	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_l1eng_all_stored	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qlog_qssweb_m_image_so_com_logstash	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+image_sitescooperation_material	-	0 B	0 B	-	-	-	-
+qlog_k8s_qsearch_zipcode	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qlog_qssweb_mso_feedback	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_waf_sdk_m_baike	调用SDK	0 B	0 B	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+img_sharkth_info	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_open-www-so-com-deploy	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_picasso-proxy-proxy-stage	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+spider_quick_smartabstract	调用SDK	-	-	网页爬虫	STORM抓取线	董禹龙(dongyulong@360.cn)	zzzc_priv_search_platform_1
+kvdb_clickmerger_info	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_docker-platform	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_v2_filter_data	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_xueshu-so-com-stage1	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_tran-news-so-com-service-syslogudp	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_elk-kibana-wrapper	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+1_QLOG_QSSWEB_SO_QBUS	调用SDK	-	-	搜索云平台	QBUS	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_st-so-com-web-stage	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+v2_qss_v2_filter_data	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+jsonfield_spider_jsonfield_1524813601	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_tilp-pc-proxy	调用SDK	-	-	搜索云平台	QBUS	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qssweb_onebox_zz_log_test	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_xueshu-so-com-stage	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+kafka-ping	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_infra-telegraf-telegraf	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qsslab_goods_dct_torun	调用SDK	0 B	0 B	图片搜索	识图购物	薛红霞(xuehongxia@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_news-so-com-web	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_so-user-history-clearredisdata	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_onebox-online-data-server	调用SDK	-	-	onebox业务	intf_onebox_360_cn_V3	张媛(zhangyuan@360.cn)	zzzc_priv_search_platform_1
+image_davinci_stat	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_waf_sdk_pc_wenda	调用SDK	1 GB	1.3 GB	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_api-www-so-com-web-stage	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_onebox_zz_data_education_composition	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	zzzc_priv_search_platform_1
+qss_access_src	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_jsspider_data	调用SDK	-	-	网页爬虫	展现日志收集	董禹龙(dongyulong@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_ipquery-ipquery	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_qsspage-spam-cnn-tf-httpserver	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_vangogh-tuso-thumbnail	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+imgse_zutusendtovangogh	调用SDK	2 MB	1.8 MB	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+soclick_qss_filter_data	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_waiter-www-so-com-web	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_lvsmonitor-lvsmonitor-master	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+imgmerger_qlogd_clean	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_vangogh-tuso-result	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_news-so-com-consume	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_waf_sdk_ly_so_com	调用SDK	105 MB	105.0 MB	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+maintable_search_attr_builder_qbus2	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_elk-logstash-so-com	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_m-so-com	调用SDK	-	-	搜索云平台	QBUS	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+sre-test	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_index-so-com-syslogudp	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qssweb_waf_sdk_mbsug_ssl_so_com	调用SDK	12 MB	12.5 MB	综合搜索	反爬系统	李猛(limeng8@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_picasso-proxy-proxy	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+page_visits5	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+fastline_l2eng_transfer	调用SDK	-	-	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_smart-suggest-openresty-stage	调用SDK	-	-	web前端	smart-sug	耿斌(gengbin@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_infra-kafka-zookeeper	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+imgse_fast_news	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qss_query_attr_builder	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_l1eng_all_stored_prior	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qss_l1eng_attr_progress	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+imgse_storm_download	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+image2_rnews	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+img_face_rect_upload	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+zzzc_priv_l2eng_mobile_primary_idc_log	调用SDK	0 B	0 B	二级引擎	so_fast_l2eng_kafka	王勇(wangyong-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_magmadar-magmadar	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+img_eng_tl_2	调用SDK	-	-	图搜	图片搜索引擎	王德新(wangdexin@360.cn)	zzzc_priv_search_platform_1
+qss_all_stored_8	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_all_stored_9	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+zhaoyf_image_news_flink_in	调用SDK	-	-	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_onebox-online-ui-server	调用SDK	-	-	onebox业务	intf_onebox_360_cn_V3	张媛(zhangyuan@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_sokpi-sokpi-web	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+lsearcher_searcher_info	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+infra-sla-nginx	调用SDK	-	-	搜索云平台	QBUS	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qss_all_stored_2	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_all_stored_3	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+testliuqin	调用SDK	0 B	0 B	360搜索内部工具平台	确认删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_so-user-history-mqbus	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_all_stored_1	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_all_stored_6	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_all_stored_7	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_all_stored_4	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+qss_all_stored_5	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+storm_mobile_primary_idc_log_click	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+so_ai_qa_importshbt	调用SDK	-	-	web前端	人工智能	耿斌(gengbin@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_st-so-com-web	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_so-com-stage	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+storm_attr_ss_builder_proir	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+qssweb_onebox_zz_data_job_position	调用SDK	-	-	onebox业务	站长结构化数据接入后台	高龙(gaolong1@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_pc-english-so-com-web	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_comment-aggregate-offline-fetcher	调用SDK	-	-	搜索云平台	QBUS	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_msuggest-openresty	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+search_idclog_resource_qbus2	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+image_davinci_error_general	调用SDK	-	-	360搜索内部工具平台	未认领待删除Topic	张爽(zhangshuang-pd@360.cn)	zzzc_priv_search_platform_1
+oneboxlog_all	日志收集	-	-	onebox业务	intf_onebox_360_cn_V3	张媛(zhangyuan@360.cn)	zzzc_priv_search_platform_1
+mobile_soclick_qss_main_command_new_click	调用SDK	0 B	0 B	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+k8s_docker_courier-sentry	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
+image_davinci_stat_general	调用SDK	-	-	搜索架构组	一级引擎	陈志丰(chenzhifeng@360.cn)	zzzc_priv_search_platform_1
