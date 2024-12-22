@@ -1,4 +1,4 @@
-package pers.vv.study.redis.redisson.maperror;
+package pers.vv.study.etcd;
 
 import lombok.Data;
 import org.redisson.Redisson;
