@@ -91,6 +91,8 @@
         <module>test</module>
         <module>tomcat</module>
         <module>zookeeper</module>
+        <module>etcd</module>
+        <module>nacos</module>
     </modules>
 
     <properties>
@@ -102,7 +104,7 @@
 
         <!-- dependencies -->
         <grpc.version>1.19.0</grpc.version>
-        <lombok.version>1.18.12</lombok.version>
+        <lombok.version>1.18.30</lombok.version>
         <curator.version>5.1.0</curator.version>
         <!--        <curator.version>2.10.0</curator.version>-->
         <junit.jupiter.version>5.6.1</junit.jupiter.version>
