@@ -223,14 +223,20 @@ put_etcd_key() {
 # 获取 ETCD 键值对
 get_etcd_key() {
     local KEY=$1
+    local PREFIX_MATCH=$2
 
     if [ -z "$KEY" ]; then
         echo "Key is required!"
         exit 1
     fi
 
-    echo "Getting ETCD key $KEY..."
-    $ETCDCTL_CMD $ETCD_ENDPOINTS get $KEY
+    if [ "$PREFIX_MATCH" == "-p" ]; then
+        echo "Getting ETCD keys with prefix $KEY..."
+        $ETCDCTL_CMD $ETCD_ENDPOINTS get $KEY --prefix
+    else
+        echo "Getting ETCD key $KEY..."
+        $ETCDCTL_CMD $ETCD_ENDPOINTS get $KEY
+    fi
 
     if [[ $? -eq 0 ]]; then
         echo "ETCD key $KEY fetched successfully!"
@@ -276,7 +282,7 @@ case $1 in
         put_etcd_key $2 $3
         ;;
     get)
-        get_etcd_key $2
+        get_etcd_key $2 $3
         ;;
     -h|--help)
         show_help
