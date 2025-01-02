@@ -199,6 +199,47 @@ list_etcd_members() {
     fi
 }
 
+# 设置 ETCD 键值对
+put_etcd_key() {
+    local KEY=$1
+    local VALUE=$2
+
+    if [ -z "$KEY" ] || [ -z "$VALUE" ]; then
+        echo "Key and value are required!"
+        exit 1
+    fi
+
+    echo "Setting ETCD key $KEY with value $VALUE..."
+    $ETCDCTL_CMD $ETCD_ENDPOINTS put $KEY $VALUE
+
+    if [[ $? -eq 0 ]]; then
+        echo "ETCD key $KEY set successfully!"
+    else
+        echo "Failed to set ETCD key $KEY."
+        exit 1
+    fi
+}
+
+# 获取 ETCD 键值对
+get_etcd_key() {
+    local KEY=$1
+
+    if [ -z "$KEY" ]; then
+        echo "Key is required!"
+        exit 1
+    fi
+
+    echo "Getting ETCD key $KEY..."
+    $ETCDCTL_CMD $ETCD_ENDPOINTS get $KEY
+
+    if [[ $? -eq 0 ]]; then
+        echo "ETCD key $KEY fetched successfully!"
+    else
+        echo "Failed to fetch ETCD key $KEY."
+        exit 1
+    fi
+}
+
 # 根据传入的参数调用对应的方法
 case $1 in
     start)
@@ -227,6 +268,15 @@ case $1 in
         ;;
     info)
         list_etcd_members
+        ;;
+    put)
+        put_etcd_key $2 $3
+        ;;
+    set)
+        put_etcd_key $2 $3
+        ;;
+    get)
+        get_etcd_key $2
         ;;
     -h|--help)
         show_help
