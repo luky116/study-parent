@@ -137,15 +137,15 @@ grant_etcd_role_permissions() {
     case $PERMISSION_TYPE in
         r)
             echo "Granting read permission to role $ROLE_NAME for key $KEY..."
-            $ETCDCTL_CMD $ETCD_ENDPOINTS role grant $ROLE_NAME --read $KEY
+            $ETCDCTL_CMD $ETCD_ENDPOINTS role grant $ROLE_NAME --prefix=true read  $KEY
             ;;
         w)
             echo "Granting write permission to role $ROLE_NAME for key $KEY..."
-            $ETCDCTL_CMD $ETCD_ENDPOINTS role grant $ROLE_NAME --write $KEY
+            $ETCDCTL_CMD $ETCD_ENDPOINTS role grant $ROLE_NAME --prefix=true write $KEY
             ;;
         rw)
             echo "Granting read-write permission to role $ROLE_NAME for key $KEY..."
-            $ETCDCTL_CMD $ETCD_ENDPOINTS role grant $ROLE_NAME --read $KEY --write $KEY
+            $ETCDCTL_CMD $ETCD_ENDPOINTS role grant $ROLE_NAME --prefix=true readwrite $KEY
             ;;
         *)
             echo "Invalid permission type. Use 'r' for read, 'w' for write, or 'rw' for read-write."
@@ -157,6 +157,26 @@ grant_etcd_role_permissions() {
         echo "Permission granted successfully!"
     else
         echo "Failed to grant permission."
+        exit 1
+    fi
+}
+
+grant_user_role() {
+    local USER_NAME=$1
+    local ROLE_NAME=$2
+
+    if [ -z "$USER_NAME" ] || [ -z "$ROLE_NAME" ]; then
+        echo "Usage: $0 grant_user_role <user_name> <role_name>"
+        exit 1
+    fi
+
+    echo "Granting role $ROLE_NAME to user $USER_NAME..."
+    $ETCDCTL_CMD $ETCD_ENDPOINTS user grant-role $USER_NAME $ROLE_NAME
+
+    if [[ $? -eq 0 ]]; then
+        echo "Role $ROLE_NAME granted to user $USER_NAME successfully!"
+    else
+        echo "Failed to grant role $ROLE_NAME to user $USER_NAME."
         exit 1
     fi
 }
@@ -265,6 +285,9 @@ case $1 in
         ;;
     create_role)
         create_etcd_role $2
+        ;;
+    grant_role)
+        grant_user_role $2 $3
         ;;
     create_root_user)
         create_root_user
